@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "E:/PWR/sem 5/Projektowanie VLSI/LABO/BROWAR/BROWAR_test_isim_beh.exe" -prj "E:/PWR/sem 5/Projektowanie VLSI/LABO/BROWAR/BROWAR_test_beh.prj" "work.BROWAR_test" 

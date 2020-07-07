@@ -1,0 +1,2 @@
+vhdl isim_temp "BROWAR.vhd"
+vhdl isim_temp "BROWAR_test.vhd"

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="E:/PWR/sem 5/Projektowanie VLSI/LABO/BROWAR/BROWAR_test_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="browar_test" />
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/browar_test/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/browar_test/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#000000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/browar_test/start" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">start</obj_property>
+      <obj_property name="ObjectShortName">start</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#800000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/browar_test/poziom_piwa_h" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">poziom_piwa_h</obj_property>
+      <obj_property name="ObjectShortName">poziom_piwa_h</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#800000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/browar_test/poziom_piwa_l" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">poziom_piwa_l</obj_property>
+      <obj_property name="ObjectShortName">poziom_piwa_l</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#800000</obj_property>
+   </wvobject>
+   <wvobject fp_name="/browar_test/uut/stan" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">stan</obj_property>
+      <obj_property name="ObjectShortName">stan</obj_property>
+   </wvobject>
+   <wvobject fp_name="/browar_test/uut/stan_nast" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">stan_nast</obj_property>
+      <obj_property name="ObjectShortName">stan_nast</obj_property>
+   </wvobject>
+   <wvobject fp_name="/browar_test/uut/czyste" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">czyste</obj_property>
+      <obj_property name="ObjectShortName">czyste</obj_property>
+   </wvobject>
+   <wvobject fp_name="/browar_test/uut/czas_warzenia" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">czas_warzenia[3:0]</obj_property>
+      <obj_property name="ObjectShortName">czas_warzenia[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/browar_test/uut/butelkie" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">butelkie[3:0]</obj_property>
+      <obj_property name="ObjectShortName">butelkie[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/browar_test/uut/butelkif" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">butelkif[7:0]</obj_property>
+      <obj_property name="ObjectShortName">butelkif[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/browar_test/uut/butelkic" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">butelkic[7:0]</obj_property>
+      <obj_property name="ObjectShortName">butelkic[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/browar_test/uut/kapsle" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">kapsle[3:0]</obj_property>
+      <obj_property name="ObjectShortName">kapsle[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/browar_test/uut/czteropaki_wew" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">czteropaki_wew[3:0]</obj_property>
+      <obj_property name="ObjectShortName">czteropaki_wew[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/browar_test/czteropaki" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">czteropaki[3:0]</obj_property>
+      <obj_property name="ObjectShortName">czteropaki[3:0]</obj_property>
+      <obj_property name="UseCustomSignalColor">true</obj_property>
+      <obj_property name="CustomSignalColor">#ffa500</obj_property>
+   </wvobject>
+</wave_config>

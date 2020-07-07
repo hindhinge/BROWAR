@@ -1,0 +1,29 @@
+Command line:
+   BROWAR_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  59080
+
+Sun Jan 12 15:26:50 2020
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 848.65 Meg
+
+ Total Signals          : 15
+ Total Nets             : 44
+ Total Signal Drivers   : 10
+ Total Blocks           : 4
+ Total Primitive Blocks : 4
+ Total Processes        : 4
+ Total Traceable Variables  : 10
+ Total Scalar Nets and Variables : 422
+Total Line Count : 77
+
+ Total Simulation Time: 0.109375 sec
+
+ Current Memory Usage: 848.65 Meg
+
+Sun Jan 12 15:26:54 2020
+
